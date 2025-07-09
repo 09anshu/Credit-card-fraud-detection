@@ -15,11 +15,6 @@ Credit card fraud causes huge financial losses each year. Detecting fraud early 
 
 ---
 
-## 📁 Folder Structure
-
-
----
-
 ## 💾 Dataset Download
 
 ⚠️ The `creditcard.csv` file (143 MB) is too large for GitHub and has been excluded.
